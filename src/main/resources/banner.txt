@@ -1,0 +1,5 @@
+${Ansi.RED}   ___    _    ___  __  __
+${Ansi.RED}  / __|  / \  / __||  \/  | ${Ansi.MAGENTA}Continuous Auditing - Continuous Monitoring System
+${Ansi.RED} | (__  / _ \| (__ | |\/| | ${Ansi.MAGENTA}Solution by KPMG Technology Solutions (Pvt.) Ltd.
+${Ansi.RED}  \___|/_/ \_\\___||_|  |_| ${Ansi.RED}${application.version}
+                           
